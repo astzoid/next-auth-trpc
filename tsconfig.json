@@ -23,6 +23,12 @@
 			"@components/*": [
 				"components/*"
 			],
+			"@env/*": [
+				"env/*"
+			],
+			"@pages/*": [
+				"pages/*"
+			],
 			"@server/*": [
 				"server/*"
 			],
